@@ -1,3 +1,4 @@
+![Screenshot 2021-08-14 at 11 52 39 PM](https://user-images.githubusercontent.com/74308364/129456782-ff301d9f-943a-40b6-869f-c009a3082d00.png)
 # VS-CODE-SETTING-JSON
 
 {
