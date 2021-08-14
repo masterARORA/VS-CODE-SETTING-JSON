@@ -1,8 +1,10 @@
-*My Fav Extension's
+# VS-CODE-SETTING-JSON
+
+*MY FAV EXTENSION(s) FOR REACT
 
 ![Screenshot 2021-08-15 at 12 01 53 AM](https://user-images.githubusercontent.com/74308364/129456947-bd27b3a2-d28e-4a75-8ab3-76ae1393da5f.png)
 
-# VS-CODE-SETTING-JSON
+*SETTING.JSON
 
 ![Screenshot 2021-08-14 at 11 52 39 PM](https://user-images.githubusercontent.com/74308364/129456905-f9638028-53bc-4e09-856b-19b2cce6df2f.png)
 
